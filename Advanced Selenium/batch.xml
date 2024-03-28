@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testScript.ToRunKitkat"/>
+      <class name="testScript.ToRunCreta"/>
+      <class name="testScript.ToRuncadbury"/>
+      <class name="testScript.ToRunVolkswagen"/>
+      <class name="testScript.ToRunSuzuki"/>
+      <class name="testScript.ToRunKia"/>
+      <class name="testScript.ToRunMunch"/>
+      <class name="testScript.ToRunMilkyBar"/>
+      <class name="testScript.ToRunScoda"/>
+      <class name="testScript.ToRunSnickers"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
